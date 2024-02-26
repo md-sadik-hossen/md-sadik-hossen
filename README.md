@@ -89,8 +89,8 @@
 <details>
  <summary><h3>My Previous Experiences</h3></summary>
 
-	### Ulterior Engineering International
-	#### Electrical Design Engineer | March 2022- August 2022
+### Ulterior Engineering International
+#### Electrical Design Engineer | March 2022- August 2022
 	- Prepared and corrected site drawings using AutoCAD and produced hand-drawn field sketches to meet industry standards and execution plans.
 	- Designed PLC-related projects, programming and control panel design using TIA Portal.
 	- Provided guidance and training in the field of electrical automation to students.
