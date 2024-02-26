@@ -76,8 +76,14 @@
 <details>
 <summary><h3>My Previous Experiences</h3></summary>
 
+### Ulterior Engineering International
+#### Electrical Design Engineer | March 2022- August 2022
+- Prepared and corrected site drawings using AutoCAD and produced hand-drawn field sketches to meet industry standards and execution plans.
+- Designed PLC-related projects, programming and control panel design using TIA Portal.
+- Provided guidance and training in the field of electrical automation to students.
+
 ### Sotej
-#### Organic Farmer | October 2019 - March 2022
+#### Organic Farmer | October 2019 - Present
 - Produced high-quality, nutrient-rich food using ZBNF and other natural farming models.
 - Increased soil health and productivity by reducing environmental impact.
 - Couldn't accomplish market demand size and color and build trust in consumer mind due to certification.
@@ -85,7 +91,25 @@
 <details>
 <summary><h3>What Inspired Me to Become a Full-Time Organic Farmer:</h3></summary>
 
-I underwent surgery in 2012 to address a blasted gallbladder, only to discover that the underlying cause was linked to pesticide residue or heavy metal contamination. This revelation likely prompted deeper questions about environmental and health concerns, raising awareness about the potential dangers of exposure to such toxins in everyday life. This experience may have sparked my interest in advocating for cleaner and safer environments, as well as promoting awareness about the importance of regulating pesticide use and monitoring heavy metal contamination in food and water sources. Additionally, it may have inspired me to explore avenues for personal health and wellness, including dietary changes and lifestyle adjustments to minimize exposure to harmful substances. Overall, my journey underscores the interconnectedness of human health and environmental well-being, highlighting the need for proactive measures to mitigate risks and protect individuals and communities from hazardous pollutants.
+I underwent surgery in 2012 to address a blasted gallbladder, only to discover that the underlying cause was linked to pesticide residue or heavy metal contamination. This revelation likely prompted deeper questions about environmental and health concerns, raising awareness about the potential dangers of exposure to such toxins in everyday life. This experience may have sparked my interest in advocating for cleaner and safer environments, as well as promoting awareness about the importance of regulating pesticide use and monitoring heavy metal contamination in food and water sources. Additionally, it may have inspired me to explore avenues for personal health and wellness, including dietary changes and lifestyle adjustments to minimize exposure to harmful substances. 
+
+### Transition from Full-Time to Part-Time Farming:
+	- Lack of awareness: 
+		- 95% of farmers in Bangladesh are unaware of pre-harvesting intervals (PHI), a critical period during which pesticide application should cease to ensure food safety.
+		- 65% of farmers feel unsafe consuming fruits and vegetables grown on their own farmland due to concerns about pesticide residue and heavy metal contamination.
+		- General consumers lack knowledge about pesticide residue, heavy metal contamination, and food safety standards, exacerbating concerns about the safety of agricultural produce.
+
+	- Challenges of organic farming:
+		- Higher production costs: Organic vegetable production costs are 45% higher during the initial stages compared to conventional farming methods.
+		- Poor aesthetics: Organic vegetables often lack the vibrant colors associated with conventionally grown produce.
+		- Absence of certification: Governmental lack of organic certification processes leaves organic farmers without official validation, undermining consumer trust.
+
+	- Market limitations:
+		- Consumer reluctance: Despite concerns about food safety, consumers are unwilling to pay a premium for organic vegetables compared to conventional options.
+		- Marketing challenges: Inadequate consumer demand and price sensitivity make it difficult to sell organic vegetables profitably, forcing many farmers to reconsider full-time farming.
+
+<details>
+<summary><h3>Transition from Full-Time to Part-Time Farming:</h3></summary>
 
 
 
