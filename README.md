@@ -105,7 +105,7 @@ I underwent surgery in 2012 to address a blasted gallbladder, only to discover t
 	- Lack of knowledge: General consumers lack knowledge about pesticide residue, heavy metal contamination, and food safety standards, exacerbating concerns about the safety of agricultural produce.
 	- Consumer reluctance: Despite concerns about food safety, consumers are unwilling to pay a premium for organic vegetables compared to conventional options.
 	- Marketing challenges: Inadequate consumer demand and price sensitivity make it difficult to sell organic vegetables profitably, forcing many farmers to reconsider full-time farming.
-
+<details>
 <details>
 <summary><h3>Why I Became a Data Analyst:</h3></summary>
 
