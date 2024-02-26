@@ -94,6 +94,7 @@
 I underwent surgery in 2012 to address a blasted gallbladder, only to discover that the underlying cause was linked to pesticide residue or heavy metal contamination. This revelation likely prompted deeper questions about environmental and health concerns, raising awareness about the potential dangers of exposure to such toxins in everyday life. This experience may have sparked my interest in advocating for cleaner and safer environments, as well as promoting awareness about the importance of regulating pesticide use and monitoring heavy metal contamination in food and water sources. Additionally, it may have inspired me to explore avenues for personal health and wellness, including dietary changes and lifestyle adjustments to minimize exposure to harmful substances. 
 
 ### Transition from Full-Time to Part-Time Farming:
+
 	- Lack of awareness: 
 		- 95% of farmers in Bangladesh are unaware of pre-harvesting intervals (PHI), a critical period during which pesticide application should cease to ensure food safety.
 		- 65% of farmers feel unsafe consuming fruits and vegetables grown on their own farmland due to concerns about pesticide residue and heavy metal contamination.
