@@ -10,12 +10,12 @@
 ## Project
  - ### Python
 	- [**NETFLIX Movies and TV Shows**](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows)
-
+		<details>
+		  <summary>Objectives</summary>
+    		 ![Netflix Cover](https://github.com/Sadikctg/Project_3_Netflix_Movies_and_TV_Shows_EDA-/blob/main/netflix_page_cover.jpg)
 		- Analyzed the data and generated insights to know which type of TV shows/movies producing and growing their business in different countries with various culture.
 		- Developed a movie/TV show recommendation function where users have the capability to search for a specific movie or TV show by its name. Upon entering the title, the system generates recommendations based on similar content. 
-
-    		 ![Netflix Cover](https://github.com/Sadikctg/Project_3_Netflix_Movies_and_TV_Shows_EDA-/blob/main/netflix_page_cover.jpg)
-
+		<details>
 	
 	- [**Credit Card Fraud Detection**](https://github.com/md-sadik-hossen/Credit-Card-Fraud-Detection)
 		- Utilizing data encompassing transaction time, amount, and transformed features, various classification models are employed to accurately classify transactions as authentic or fraudulent, followed by comparing different model-building techniques and evaluating their performance through various metrics.
