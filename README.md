@@ -89,48 +89,49 @@
 <details>
 <summary><h3>My Previous Experiences</h3></summary>
 
-### Ulterior Engineering International
-#### Electrical Design Engineer | March 2022- August 2022
-- Prepared and corrected site drawings using AutoCAD and produced hand-drawn field sketches to meet industry standards and execution plans.
-- Designed PLC-related projects, programming and control panel design using TIA Portal.
-- Provided guidance and training in the field of electrical automation to students.
+	### Ulterior Engineering International
+	#### Electrical Design Engineer | March 2022- August 2022
+	- Prepared and corrected site drawings using AutoCAD and produced hand-drawn field sketches to meet industry standards and execution plans.
+	- Designed PLC-related projects, programming and control panel design using TIA Portal.
+	- Provided guidance and training in the field of electrical automation to students.
 
-### Sotej
-#### Organic Farmer | October 2019 - Present
-- Produced high-quality, nutrient-rich food using ZBNF and other natural farming models.
-- Increased soil health and productivity by reducing environmental impact.
-- Couldn't accomplish market demand size and color and build trust in consumer mind due to certification.
-- Failed to control pests in the rainy season due to proper guidance of industry expertise.
- <details>
- <summary><h3>What Inspired Me to Become a Full-Time Organic Farmer:</h3></summary>
+	### Sotej
+	#### Organic Farmer | October 2019 - Present
+	- Produced high-quality, nutrient-rich food using ZBNF and other natural farming models.
+	- Increased soil health and productivity by reducing environmental impact.
+	- Couldn't accomplish market demand size and color and build trust in consumer mind due to certification.
+	- Failed to control pests in the rainy season due to proper guidance of industry expertise.
+	 <details>
+	 <summary><h3>What Inspired Me to Become a Full-Time Organic Farmer:</h3></summary>
 
- I underwent surgery in 2012 to address a blasted gallbladder, only to discover that the underlying cause was linked to pesticide residue or heavy metal contamination. This revelation likely prompted deeper questions about environmental and health concerns, raising awareness about the potential dangers of exposure to such toxins in everyday life. This experience may have sparked my interest in advocating for cleaner and safer environments, as well as promoting awareness about the importance of regulating pesticide use and monitoring heavy metal contamination in food and water sources. Additionally, it may have inspired me to explore avenues for personal health and wellness, including dietary changes and lifestyle adjustments to minimize exposure to harmful substances. 
+	 I underwent surgery in 2012 to address a blasted gallbladder, only to discover that the underlying cause was linked to pesticide residue or heavy metal contamination. This revelation likely prompted deeper questions about environmental and health concerns, raising awareness about the potential dangers of exposure to such toxins in everyday life. This experience may have sparked my interest in advocating for cleaner and safer environments, as well as promoting awareness about the importance of regulating pesticide use and monitoring heavy metal contamination in food and water sources. Additionally, it may have inspired me to explore avenues for personal health and wellness, including dietary changes and lifestyle adjustments to minimize exposure to harmful substances. 
 
-### Transition from Full-Time to Part-Time Farming:
+	### Transition from Full-Time to Part-Time Farming:
 
-- Challenges of organic farming:
-	- Higher production costs: Organic vegetable production costs are 45% higher during the initial stages compared to conventional farming methods.
-	- Poor aesthetics: Organic vegetables often lack the vibrant colors associated with conventionally grown produce.
-	- Absence of certification: Governmental lack of organic certification processes leaves organic farmers without official validation, undermining consumer trust.
- 	- Organic Pest Control and Industry Guidance: During the rainy season, the farm grappled with pest infestations, causing significant damage to crops and impacting yield. Despite efforts to combat pests, the lack of guidance from industry experts proved to be a major hurdle. Without access to expert knowledge and best practices in pest management, the farm struggled to implement effective control measures, resulting in losses and setbacks.
+	- Challenges of organic farming:
+		- Higher production costs: Organic vegetable production costs are 45% higher during the initial stages compared to conventional farming methods.
+		- Poor aesthetics: Organic vegetables often lack the vibrant colors associated with conventionally grown produce.
+		- Absence of certification: Governmental lack of organic certification processes leaves organic farmers without official validation, undermining consumer trust.
+		- Organic Pest Control and Industry Guidance: During the rainy season, the farm grappled with pest infestations, causing significant damage to crops and impacting yield. Despite efforts to combat pests, the lack of guidance from industry experts proved to be a major hurdle. Without access to expert knowledge and best practices in pest management, the farm struggled to implement effective control measures, resulting in losses and setbacks.
 
-- Market limitations:
-	- Lack of knowledge: General consumers lack knowledge about pesticide residue, heavy metal contamination, and food safety standards, exacerbating concerns about the safety of agricultural produce.
-	- Consumer reluctance: Despite concerns about food safety, consumers are unwilling to pay a premium for organic vegetables compared to conventional options.
-	- Marketing challenges: Inadequate consumer demand and price sensitivity make it difficult to sell organic vegetables profitably, forcing many farmers to reconsider full-time farming.
+	- Market limitations:
+		- Lack of knowledge: General consumers lack knowledge about pesticide residue, heavy metal contamination, and food safety standards, exacerbating concerns about the safety of agricultural produce.
+		- Consumer reluctance: Despite concerns about food safety, consumers are unwilling to pay a premium for organic vegetables compared to conventional options.
+		- Marketing challenges: Inadequate consumer demand and price sensitivity make it difficult to sell organic vegetables profitably, forcing many farmers to reconsider full-time farming.
+
 
 <details>
 <summary><h3>Why I Became a Data Analyst:</h3></summary>
 
-- As I delved deeper into this newfound passion, I found solace and purpose in the meticulous collection and analysis of data from my agriculture farm. Each day, as I meticulously recorded observations and tracked my journey, I began to realize the transformative power of data. It wasn't just numbers and figures; it was the roadmap to a better, more sustainable future.
+	- As I delved deeper into this newfound passion, I found solace and purpose in the meticulous collection and analysis of data from my agriculture farm. Each day, as I meticulously recorded observations and tracked my journey, I began to realize the transformative power of data. It wasn't just numbers and figures; it was the roadmap to a better, more sustainable future.
 
-- Driven by a burning desire to make a difference, my journey to becoming a data analyst took flight. Armed with a wealth of information gathered from the fields, I embarked on a quest to optimize farming practices, boost crop yield, and minimize resource usage. It wasn't just about profitability anymore; it was about nurturing the land, respecting its bounties, and ensuring the prosperity of generations to come.
+	- Driven by a burning desire to make a difference, my journey to becoming a data analyst took flight. Armed with a wealth of information gathered from the fields, I embarked on a quest to optimize farming practices, boost crop yield, and minimize resource usage. It wasn't just about profitability anymore; it was about nurturing the land, respecting its bounties, and ensuring the prosperity of generations to come.
 
-- Yet, amidst my fervent pursuit, I couldn't shake off the lingering shadows of ignorance and indifference that plagued our society. The stark reality of a populace unaware of the dangers lurking in their food and oblivious to the sacrifices of those toiling in the fields haunted me. It wasn't just about farming anymore; it was about bridging the gap between knowledge and action, about empowering communities to demand better, safer choices.
+	- Yet, amidst my fervent pursuit, I couldn't shake off the lingering shadows of ignorance and indifference that plagued our society. The stark reality of a populace unaware of the dangers lurking in their food and oblivious to the sacrifices of those toiling in the fields haunted me. It wasn't just about farming anymore; it was about bridging the gap between knowledge and action, about empowering communities to demand better, safer choices.
 
-- But as I stood at the crossroads of uncertainty, faced with the harsh realities of market limitations and consumer reluctance, I found myself torn between my passion for farming and the harsh realities of economic survival. The transition from full-time farmer to part-time seemed inevitable, a bittersweet compromise between my dreams and the harsh dictates of reality.
+	- But as I stood at the crossroads of uncertainty, faced with the harsh realities of market limitations and consumer reluctance, I found myself torn between my passion for farming and the harsh realities of economic survival. The transition from full-time farmer to part-time seemed inevitable, a bittersweet compromise between my dreams and the harsh dictates of reality.
 
-- Yet, even as I scaled back my commitments, the flame of hope burned bright within me. For I knew that my journey was far from over. Armed with data as my sword and passion as my shield, I vowed to continue the fight, to champion a future where every seed sown was a promise of prosperity, every harvest reaped a testament to resilience, and every decision made a step towards a brighter tomorrow.
+	- Yet, even as I scaled back my commitments, the flame of hope burned bright within me. For I knew that my journey was far from over. Armed with data as my sword and passion as my shield, I vowed to continue the fight, to champion a future where every seed sown was a promise of prosperity, every harvest reaped a testament to resilience, and every decision made a step towards a brighter tomorrow.
 
 
 
