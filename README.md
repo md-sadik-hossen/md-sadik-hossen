@@ -95,17 +95,14 @@ I underwent surgery in 2012 to address a blasted gallbladder, only to discover t
 
 ### Transition from Full-Time to Part-Time Farming:
 
-- Lack of awareness: 
-	- 95% of farmers in Bangladesh are unaware of pre-harvesting intervals (PHI), a critical period during which pesticide application should cease to ensure food safety.
-	- 65% of farmers feel unsafe consuming fruits and vegetables grown on their own farmland due to concerns about pesticide residue and heavy metal contamination.
-	- General consumers lack knowledge about pesticide residue, heavy metal contamination, and food safety standards, exacerbating concerns about the safety of agricultural produce.
-
 - Challenges of organic farming:
 	- Higher production costs: Organic vegetable production costs are 45% higher during the initial stages compared to conventional farming methods.
 	- Poor aesthetics: Organic vegetables often lack the vibrant colors associated with conventionally grown produce.
 	- Absence of certification: Governmental lack of organic certification processes leaves organic farmers without official validation, undermining consumer trust.
+ 	- Organic Pest Control and Industry Guidance: During the rainy season, the farm grappled with pest infestations, causing significant damage to crops and impacting yield. Despite efforts to combat pests, the lack of guidance from industry experts proved to be a major hurdle. Without access to expert knowledge and best practices in pest management, the farm struggled to implement effective control measures, resulting in losses and setbacks.
 
 - Market limitations:
+	- Lack of knowledge: General consumers lack knowledge about pesticide residue, heavy metal contamination, and food safety standards, exacerbating concerns about the safety of agricultural produce.
 	- Consumer reluctance: Despite concerns about food safety, consumers are unwilling to pay a premium for organic vegetables compared to conventional options.
 	- Marketing challenges: Inadequate consumer demand and price sensitivity make it difficult to sell organic vegetables profitably, forcing many farmers to reconsider full-time farming.
 
