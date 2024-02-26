@@ -74,6 +74,6 @@
     		 ![Sales](https://github.com/Sadikctg/Project_8_Sales_Time_Series_Analysis_Dashboard_Excel/blob/main/images/Sales%20Analysis%20001-cropped.jpg)
 
 
-
 <details>
-<summary>### What Inspired Me to Become a Full-Time Organic Farmer:</summary>
+<summary><strong>What Inspired Me to Become a Full-Time Organic Farmer:</strong></summary>
+
