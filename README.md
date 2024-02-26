@@ -72,3 +72,8 @@
 		- Incorporating customizable reporting features, the dashboard allows users to tailor their analysis, selecting relevant time periods, metrics, and visualization styles. This flexibility caters to diverse user needs, enhancing decision-making effectiveness.
 
     		 ![Sales](https://github.com/Sadikctg/Project_8_Sales_Time_Series_Analysis_Dashboard_Excel/blob/main/images/Sales%20Analysis%20001-cropped.jpg)
+
+
+
+<details>
+<summary>### What Inspired Me to Become a Full-Time Organic Farmer:</summary>
