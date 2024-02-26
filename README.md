@@ -1,6 +1,6 @@
 # Hi, I'm Sadik! 
 
-## Data Scientist
+## Data Analyst
 
 #### Technical Skills: Python, SQL, MS Power BI, MS Office, Scrum
 
