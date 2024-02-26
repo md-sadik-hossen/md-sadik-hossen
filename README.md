@@ -5,7 +5,7 @@
 #### Technical Skills: Python, SQL, MS Power BI, MS Office, Scrum
 
 ## Education
-- BSc in EEE, International Islamic University Chittagong.
+- BSc in EEE | International Islamic University Chittagong | Bangladesh
 
 ## Project
  - ### Python
@@ -88,10 +88,10 @@
 - Increased soil health and productivity by reducing environmental impact.
 - Couldn't accomplish market demand size and color and build trust in consumer mind due to certification.
 - Failed to control pests in the rainy season due to proper guidance of industry expertise.
-<details>
-<summary><h3>What Inspired Me to Become a Full-Time Organic Farmer:</h3></summary>
+ <details>
+ <summary><h3>What Inspired Me to Become a Full-Time Organic Farmer:</h3></summary>
 
-I underwent surgery in 2012 to address a blasted gallbladder, only to discover that the underlying cause was linked to pesticide residue or heavy metal contamination. This revelation likely prompted deeper questions about environmental and health concerns, raising awareness about the potential dangers of exposure to such toxins in everyday life. This experience may have sparked my interest in advocating for cleaner and safer environments, as well as promoting awareness about the importance of regulating pesticide use and monitoring heavy metal contamination in food and water sources. Additionally, it may have inspired me to explore avenues for personal health and wellness, including dietary changes and lifestyle adjustments to minimize exposure to harmful substances. 
+ I underwent surgery in 2012 to address a blasted gallbladder, only to discover that the underlying cause was linked to pesticide residue or heavy metal contamination. This revelation likely prompted deeper questions about environmental and health concerns, raising awareness about the potential dangers of exposure to such toxins in everyday life. This experience may have sparked my interest in advocating for cleaner and safer environments, as well as promoting awareness about the importance of regulating pesticide use and monitoring heavy metal contamination in food and water sources. Additionally, it may have inspired me to explore avenues for personal health and wellness, including dietary changes and lifestyle adjustments to minimize exposure to harmful substances. 
 
 ### Transition from Full-Time to Part-Time Farming:
 
