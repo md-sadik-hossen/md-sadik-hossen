@@ -78,9 +78,10 @@
 		<details>
 		  <summary>Inner View Of DB</summary>
 
-		![Switchgear Design](https://github.com/md-sadik-hossen/Low-Voltage-Switchgear-Design/blob/main/images/SLD_with_Control_panel_page-0007-cover-page.jpg)
+		![Switchgear Design](https://github.com/md-sadik-hossen/Low-Voltage-Switchgear-Design/blob/main/images/SLD_with_Control_panel_page-0007-cover-page_.jpg)
 
-		AUTOCAD enables precise drafting, annotation, and visualization of switchgear components, facilitating efficient design, documentation, and collaboration in the development of safe and reliable electrical systems.
+		
+		The inner view of the low voltage switchgear design reveals a sophisticated setup comprising various components from Schneider Electric. The design includes three Schneider 2000A capacity ACB-type circuit breakers for incoming power, ensuring efficient and reliable power distribution. Additionally, one Schneider 2000A capacity ACB type circuit breaker serves as a bus coupler, facilitating seamless connection between different sections of the switchgear. For outgoing circuits, the design incorporates a combination of Schneider MCCB-type circuit breakers, including one 1000A, one 800A, three 630A, and one 400A capacity unit. This comprehensive setup enables precise control and protection of outgoing circuits, ensuring safety and optimal performance in electrical distribution systems.
 
 
 
