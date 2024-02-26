@@ -76,11 +76,11 @@
  - ### AUTOCAD
 	- [**Single Line Diagram of Low Voltage Switchgear Design**](https://github.com/md-sadik-hossen/Low-Voltage-Switchgear-Design)
 		<details>
-		  <summary>Objectives</summary>
+		  <summary>Inner View Of DB</summary>
 
 		![Switchgear Design](https://github.com/md-sadik-hossen/Low-Voltage-Switchgear-Design/blob/main/images/SLD_with_Control_panel_page-0007-cover-page.jpg)
 
-			AUTOCAD enables precise drafting, annotation, and visualization of switchgear components, facilitating efficient design, documentation, and collaboration in the development of safe and reliable electrical systems.
+		AUTOCAD enables precise drafting, annotation, and visualization of switchgear components, facilitating efficient design, documentation, and collaboration in the development of safe and reliable electrical systems.
 
 
 
