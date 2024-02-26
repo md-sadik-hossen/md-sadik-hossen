@@ -2,7 +2,7 @@
 
 ## Data Analyst
 
-#### Technical Skills: Python, SQL, MS Power BI, MS Office, Scrum
+#### Technical Skills: Python, SQL, MS Power BI, MS Office, AUTOCAD, Scrum
 
 ## Education
 - BSc in EEE | International Islamic University Chittagong | Bangladesh
