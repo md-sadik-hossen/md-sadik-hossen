@@ -28,6 +28,7 @@
 	- [**Zomato Restaurant**](https://github.com/md-sadik-hossen/Zomato-Restaurant-Data-Analysis)
 		 <details>
 		   <summary>Objectives</summary>   
+
 		- Performing EDA facilitates the identification of trends and patterns in customer preferences across various locations and factors, aiding in strategic decision-making for menu offerings, pricing strategies, and geographical expansion plans.
 		- Predicting customer satisfaction levels based on various restaurant features and attributes, leveraging machine learning techniques to optimize decision-making for menu offerings, pricing strategies, and geographic expansion plans.
 
