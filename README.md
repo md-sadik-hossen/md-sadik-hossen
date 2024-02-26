@@ -91,16 +91,17 @@
 
 ### Ulterior Engineering International
 #### Electrical Design Engineer | March 2022- August 2022
-	- Prepared and corrected site drawings using AutoCAD and produced hand-drawn field sketches to meet industry standards and execution plans.
-	- Designed PLC-related projects, programming and control panel design using TIA Portal.
-	- Provided guidance and training in the field of electrical automation to students.
+- Prepared and corrected site drawings using AutoCAD and produced hand-drawn field sketches to meet industry standards and execution plans.
+- Designed PLC-related projects, programming and control panel design using TIA Portal.
+- Provided guidance and training in the field of electrical automation to students.
 
-	### Sotej
-	#### Organic Farmer | October 2019 - Present
-	- Produced high-quality, nutrient-rich food using ZBNF and other natural farming models.
-	- Increased soil health and productivity by reducing environmental impact.
-	- Couldn't accomplish market demand size and color and build trust in consumer mind due to certification.
-	- Failed to control pests in the rainy season due to proper guidance of industry expertise.
+### Sotej
+#### Organic Farmer | October 2019 - Present
+- Produced high-quality, nutrient-rich food using ZBNF and other natural farming models.
+- Increased soil health and productivity by reducing environmental impact.
+- Couldn't accomplish market demand size and color and build trust in consumer mind due to certification.
+- Failed to control pests in the rainy season due to proper guidance of industry expertise.
+
 	 <details>
 	 <summary><h3>What Inspired Me to Become a Full-Time Organic Farmer:</h3></summary>
 
