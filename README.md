@@ -90,16 +90,15 @@
 ### Ulterior Engineering International
 #### Electrical Design Engineer | March 2022- August 2022
 - Prepared and corrected site drawings using AutoCAD and produced hand-drawn field sketches to meet industry standards and execution plans.
-- Designed PLC-related projects, programming, and control panel design using TIA Portal.
+- Designed PLC-related projects, programming and control panel design using TIA Portal.
 - Provided guidance and training in the field of electrical automation to students.
 
 ### Sotej
 #### Organic Farmer | October 2019 - Present
 - Produced high-quality, nutrient-rich food using ZBNF and other natural farming models.
 - Increased soil health and productivity by reducing environmental impact.
-- Despite efforts, couldn't meet market demand in terms of size and color and struggled to build consumer trust due to lack of certification.
-- Faced challenges controlling pests during the rainy season due to a lack of proper guidance from industry experts.
-
+- Struggled to meet market demand regarding size and color due to lack of certification, impacting consumer trust.
+- Faced challenges in controlling pests during the rainy season due to insufficient industry guidance.
 
 <details>
 <summary><h3>What Inspired Me to Become a Full-Time Organic Farmer:</h3></summary>
@@ -132,6 +131,4 @@
 	- But as I stood at the crossroads of uncertainty, faced with the harsh realities of market limitations and consumer reluctance, I found myself torn between my passion for farming and the harsh realities of economic survival. The transition from full-time farmer to part-time seemed inevitable, a bittersweet compromise between my dreams and the harsh dictates of reality.
 
 	- Yet, even as I scaled back my commitments, the flame of hope burned bright within me. For I knew that my journey was far from over. Armed with data as my sword and passion as my shield, I vowed to continue the fight, to champion a future where every seed sown was a promise of prosperity, every harvest reaped a testament to resilience, and every decision made a step towards a brighter tomorrow.
-</details>
-</details>
-</details>
+
