@@ -87,7 +87,7 @@
 
 
 <details>
-<summary><h3>My Previous Experiences</h3></summary>
+ <summary><h3>My Previous Experiences</h3></summary>
 
 	### Ulterior Engineering International
 	#### Electrical Design Engineer | March 2022- August 2022
@@ -121,7 +121,7 @@
 
 
 <details>
-<summary><h3>Why I Became a Data Analyst:</h3></summary>
+ <summary><h3>Why I Became a Data Analyst:</h3></summary>
 
 	- As I delved deeper into this newfound passion, I found solace and purpose in the meticulous collection and analysis of data from my agriculture farm. Each day, as I meticulously recorded observations and tracked my journey, I began to realize the transformative power of data. It wasn't just numbers and figures; it was the roadmap to a better, more sustainable future.
 
