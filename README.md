@@ -61,7 +61,7 @@
 		<details>
 		  <summary>Objectives</summary>
 
-			- Analyzing total revenue, quantity sold, profit margins, COGS, and transaction volumes reveals trends and improvement areas. Evaluating top-performing cities and training levels guides resource allocation and marketing strategies, enhancing profitability and revenue.
+		- Analyzing total revenue, quantity sold, profit margins, COGS, and transaction volumes reveals trends and improvement areas. Evaluating top-performing cities and training levels guides resource allocation and marketing strategies, enhancing profitability and revenue.
 		- Assessing the effectiveness of advertising channels, such as YouTube, Google Ads, WhatsApp, Company Website, Facebook Page, and Television Ads, in generating leads and revenue while analyzing advertising distribution to optimize marketing spend and improve ROI.
 
 	- [**Sales Time Series Analysis**](https://github.com/md-sadik-hossen/Sales-Time-Series-Analysis)
