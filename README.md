@@ -5,7 +5,7 @@
 #### Technical Skills: Python, SQL, MS Power BI, MS Office, AUTOCAD, Scrum
 
 ## Education
-- BSc in EEE | International Islamic University Chittagong | Bangladesh
+- BSc in EEE | International Islamic University Chittagong (_September 2019_)	 | Bangladesh
 
 ## Project
  - ### Python
