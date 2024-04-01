@@ -50,8 +50,7 @@
 <details>
 <summary><h3>What Inspired Me to Become a Full-Time Organic Farmer:</h3></summary>
 
-- I underwent surgery in 2012 to address a blasted gallbladder, only to discover that the underlying cause was linked to pesticide residue or heavy metal contamination. This revelation likely prompted deeper questions about environmental and health concerns, raising awareness about the potential dangers of exposure to such toxins in everyday life. This experience may have sparked my interest in advocating for cleaner and safer environments, as well as promoting awareness about the importance of regulating pesticide use and monitoring heavy metal contamination in food and water sources. Additionally, it may have inspired me to explore avenues for personal health and wellness, including dietary changes and lifestyle adjustments to minimize exposure to harmful substances. 
-
+- I underwent surgery in 2012 to address a blasted gallbladder, later linked to potential pesticide residue or heavy metal contamination, which sparked a deep interest in environmental and health connections. This realization heightened my awareness of the potential dangers of toxin exposure in everyday life, particularly within the food chain. Consequently, I became passionate about advocating for cleaner and safer environments, including promoting regulations on pesticide use and stricter monitoring of heavy metal contamination in food and water sources. My dedication extends to promoting sustainable practices that not only enhance personal health and well-being through dietary and lifestyle choices but also contribute to a healthier planet by reducing greenhouse gas emissions through increased soil carbon content.
 </details>
 
 <details>
