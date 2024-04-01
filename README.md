@@ -30,7 +30,6 @@
  - ### AUTOCAD
 	- [**Single Line Diagram of Low Voltage Switchgear Design**](https://github.com/md-sadik-hossen/Low-Voltage-Switchgear-Design)
 
-
 <details>
  <summary><h3>My Previous Experiences</h3></summary>
 
@@ -46,6 +45,7 @@
 - Increased soil health and productivity by reducing environmental impact.
 - Struggled to meet market demand regarding size and color due to lack of certification, impacting consumer trust.
 - Leveraged market research to achieve 12% revenue growth and 9% cost reduction in transportation through strategic planning and customer trend analysis.
+</details>
 
 <details>
 <summary><h3>What Inspired Me to Become a Full-Time Organic Farmer:</h3></summary>
@@ -65,6 +65,7 @@
 - But as I stood at the crossroads of uncertainty, faced with the harsh realities of market limitations and consumer reluctance, I found myself torn between my passion for farming and the harsh realities of economic survival. The transition from full-time farmer to part-time seemed inevitable, a bittersweet compromise between my dreams and the harsh dictates of reality.
 
 - Yet, even as I scaled back my commitments, the flame of hope burned bright within me. For I knew that my journey was far from over. Armed with data as my sword and passion as my shield, I vowed to continue the fight, to champion a future where every seed sown was a promise of prosperity, every harvest reaped a testament to resilience, and every decision made a step towards a brighter tomorrow.
+</details>
 
 <details>
 <summary><h3>My Current Situation and Expansion Goals:</h3></summary>
@@ -77,8 +78,8 @@
 **Strategic Expansion Goals:**
 
 * **Scaling Up in Africa:** To overcome these challenges and achieve larger-scale production, I am exploring opportunities in East Africa, particularly Uganda and Kenya. This region offers a more stable climate suitable for growing a wider variety of perishable vegetables and grains.
-* **Establishing a Halal Meat Brand:** Expanding into South Sudan or Uganda opens doors for establishing a halal meat brand that caters to a specific market segment and leverages potential synergies with the vegetable and grain production.
+* **Establishing a Halal Meat Brand:** Expanding into South Sudan or Uganda opens doors for establishing a halal meat brand that caters to a specific market segment and leverages potential synergies with vegetable and grain production.
 * **Decentralized Risk Management:**  Recognizing the potential for political instability in certain African countries, I plan to implement a decentralized farming model. This approach mitigates risks associated with any single location or crop failure, ensuring long-term business continuity.
 
 **This strategic move to East Africa allows me to leverage my experience in organic farming while addressing the limitations of my current environment.  By diversifying my offerings and implementing a decentralized model, I aim to achieve sustainable growth and contribute to the region's food security.**
-
+</details>
