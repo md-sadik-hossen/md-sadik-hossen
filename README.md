@@ -45,7 +45,7 @@
 - Produced high-quality, nutrient-rich food using ZBNF and other natural farming models.
 - Increased soil health and productivity by reducing environmental impact.
 - Struggled to meet market demand regarding size and color due to lack of certification, impacting consumer trust.
-- Faced challenges in controlling pests during the rainy season due to insufficient industry guidance.
+- Leveraged market research to achieve 12% revenue growth and 9% cost reduction in transportation through strategic planning and customer trend analysis.
 
 <details>
 <summary><h3>What Inspired Me to Become a Full-Time Organic Farmer:</h3></summary>
