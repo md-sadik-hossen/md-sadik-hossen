@@ -69,7 +69,6 @@
 <details>
 <summary><h3>My Current Situation and Expansion Goals:</h3></summary>
 
-
 **Current Challenges:**
 
 * **Climate Change Impact:** Recent extreme floods in my home country, occurring twice within the past four years, pose a significant threat to my farm's sustainability. Floods cause significant soil erosion, hindering my ability to meet market demand for organic produce.
@@ -83,4 +82,3 @@
 
 **This strategic move to East Africa allows me to leverage my experience in organic farming while addressing the limitations of my current environment.  By diversifying my offerings and implementing a decentralized model, I aim to achieve sustainable growth and contribute to the region's food security.**
 
-</details>
