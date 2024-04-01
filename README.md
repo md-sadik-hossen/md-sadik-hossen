@@ -41,7 +41,7 @@
 - Provided guidance and training in the field of electrical automation to students.
 
 ### Sotej
-#### Organic Farmer | October 2019 - November 2023
+#### Organic Farmer | October 2019 - Present
 - Produced high-quality, nutrient-rich food using ZBNF and other natural farming models.
 - Increased soil health and productivity by reducing environmental impact.
 - Struggled to meet market demand regarding size and color due to lack of certification, impacting consumer trust.
